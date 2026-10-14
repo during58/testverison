@@ -16,8 +16,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QWP476R"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+<h1>내 손으로 직접 만든 GTM 테스트 페이지</h1>
+
+<button id="signup-btn">회원가입 버튼</button>
+<button id="purchase-btn">상품 구매 버튼</button>
+<button id="event-btn">이벤트 참여 버튼</button>
     
-    <h1>내 손으로 직접 만든 GTM 테스트 페이지</h1>
-    <button id="click-btn">테스트 클릭 버튼</button>
 </body>
 </html>
